@@ -21,14 +21,6 @@ html {
   color: purple;
 }
 
-@media screen and (max-width: 500px) {
-  .header a {
-    float: none;
-    display: block;
-    text-align: left;
-  }
-}
-
 #name {
   color: #f25278;
   text-align: center;
